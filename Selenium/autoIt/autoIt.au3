@@ -1,0 +1,5 @@
+sleep(3000)
+send("C:\Users\MA1349\Desktop\myresume.docx")
+sleep(3000)
+send("{ENTER}")
+sleep(3000)
